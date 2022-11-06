@@ -1,0 +1,11 @@
+{
+  "identifier" : "C780A5EA-E388-4D29-AF69-64BF428B07C3",
+  "ignoredFilePatterns" : [
+    "settings.php"
+  ],
+  "localPath" : ".",
+  "remotePath" : "\/is\/htdocs\/wp1002479_1POUSL5ICG\/todo.local",
+  "remoteURL" : "todo.misgin.com",
+  "server" : "misgin.com FTP User",
+  "usesPublishing" : true
+}

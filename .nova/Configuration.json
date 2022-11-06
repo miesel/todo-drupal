@@ -1,0 +1,13 @@
+{
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "plaintext"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "\/Users\/alexmisgin\/Sites\/todo-drupal\/.gitattributes"
+  ],
+  "workspace.name" : "todo.local",
+  "workspace.preview_append_paths" : true,
+  "workspace.preview_root" : ".",
+  "workspace.preview_type" : "custom",
+  "workspace.preview_url" : "todo.local"
+}
